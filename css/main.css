@@ -41,3 +41,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+#name-block {
+    border-bottom: 1px solid #3498db;
+    padding-bottom: 18px;
+}
