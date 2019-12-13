@@ -48,3 +48,7 @@ ul.posts li {
 .container{
     max-width:730px;   
 }
+img{
+    width:350px;
+    height:350px;
+}
