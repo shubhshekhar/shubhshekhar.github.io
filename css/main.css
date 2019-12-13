@@ -45,3 +45,6 @@ ul.posts li {
     border-bottom: 1px solid #3498db;
     padding-bottom: 18px;
 }
+.container{
+    max-width:730px;   
+}
